@@ -6,7 +6,7 @@
 
 </div>
 
-### iOS App developer
+### I'm iOS Software Developer! 
 - 👀 Junior iOS developer
 - 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insu@insu.party)](mailto:insu@insu.party)
