@@ -13,5 +13,5 @@
 
 ### Interest
 - ✨ TypeScript
-- 🤣 Unit Tests
+- 🤣 Unit Testing
 - 🛠 Code Refactoring
