@@ -11,7 +11,9 @@
 - 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture), [RxSwift](https://github.com/ReactiveX/RxSwift)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insu@insu.party)](mailto:insu@insu.party)
 
+<!--
 ### Interest
 - ✨ TypeScript
 - 🤣 Unit Testing
 - 🛠 Code Refactoring
+-->
