@@ -9,8 +9,8 @@
 </div>
 
 ### I'm iOS Software Developer! 
-- 👀 Junior iOS developer (Career: under 1 years)
-- 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture), [RxSwift](https://github.com/ReactiveX/RxSwift)
+- 👀 Junior iOS developer. I'd like to upgrade UI/UX. 💪
+- 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture), [RxSwift](https://github.com/ReactiveX/RxSwift), [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@byeon.is)](mailto:me@byeon.is)
 
 <!--
