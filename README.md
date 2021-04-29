@@ -4,11 +4,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchorim)](https://hits.seeyoufarm.com) 
 
-<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chorim&show_icons=true&theme=radical&line_height=27" alt="Insu Byeon's github stats" />
 </a>
 <br />
+<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/11539551/116581543-665fd880-a94f-11eb-848a-d45b1235ae24.png"></code>
