@@ -8,12 +8,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chorim&show_icons=true&theme=radical&line_height=27" alt="Insu Byeon's github stats" />
 </a>
-
-### I'm iOS Software Developer! 
-- 👀 Junior iOS developer. I'd like to upgrade UI/UX. 💪
-- 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture), [RxSwift](https://github.com/ReactiveX/RxSwift), [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@byeon.is)](mailto:me@byeon.is)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/11539551/116581543-665fd880-a94f-11eb-848a-d45b1235ae24.png"></code>
@@ -28,3 +22,8 @@
 <br />
 
 </div>
+
+### I'm iOS Software Developer! 
+- 👀 Junior iOS developer. I'd like to upgrade UI/UX. 💪
+- 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture), [RxSwift](https://github.com/ReactiveX/RxSwift), [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@byeon.is)](mailto:me@byeon.is)
