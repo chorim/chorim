@@ -4,11 +4,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchorim)](https://hits.seeyoufarm.com) 
 
-<div align="justify">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorim&layout=compact&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api?username=chorim&show_icons=true&theme=radical&line_height=27" alt="Insu Byeon's github stats" />
-</div>
-  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorim&layout=compact&theme=dracula" />
+
 <br />
 <br />
 
