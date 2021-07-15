@@ -8,7 +8,9 @@
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorim&layout=compact&theme=dracula" />
-
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=chorim&column=4&margin-w=15&margin-h=15&no-bg=true">
 <br />
 <br />
 
