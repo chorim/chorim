@@ -29,7 +29,7 @@
 
 </div>
 
-### I'm iOS Software Developer! 
-- 👀 Junior iOS developer. I'd like to upgrade UI/UX. 💪
-- 🌱 I’m currently learning [Texture](https://github.com/TextureGroup/Texture), [RxSwift](https://github.com/ReactiveX/RxSwift), [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
+### I'm iOS Software Engineer! 
+- 👀 Junior iOS Engineer. I'd like to upgrade UI/UX. 💪
+- 🌱 I’m currently learning [RIBs](https://github.com/uber/RIBs), [Tuist](https://github.com/tuist/tuist), [RxSwift](https://github.com/ReactiveX/RxSwift), [Combine](https://developer.apple.com/documentation/combine), [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case), [Texture](https://github.com/TextureGroup/Texture)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@byeon.is)](mailto:me@byeon.is)
